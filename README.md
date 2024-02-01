@@ -6,14 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/njosueofficol" target="blank"><img src="https://img.shields.io/twitter/follow/njosueofficol?logo=twitter&style=for-the-badge" alt="njosueofficol" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
-
-- 🌱 I’m currently learning **React.js,Tailwind**
-
-- 👯 I’m looking to collaborate on **School social Network**
-
-- 💬 Ask me about **Reat**
-
 - 📫 How to reach me **njosueofficol**
 
 <h3 align="left">Connect with me:</h3>
